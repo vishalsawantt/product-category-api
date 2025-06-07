@@ -10,7 +10,7 @@ This is a Spring Boot REST API for managing **Products** and **Categories** with
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- MySQL (or any other relational database)
+- MySQL
 - Maven
 
 ---
